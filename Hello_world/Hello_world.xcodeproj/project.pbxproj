@@ -29,15 +29,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		192543C322702C6E00327877 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				196EC2DB226F38B200C788C8 /* Hello_world.h */,
-				196EC2E3226F390D00C788C8 /* Service.swift */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
 		196EC2CE226F38B200C788C8 = {
 			isa = PBXGroup;
 			children = (
@@ -57,7 +48,8 @@
 		196EC2DA226F38B200C788C8 /* Hello_world */ = {
 			isa = PBXGroup;
 			children = (
-				192543C322702C6E00327877 /* Classes */,
+				196EC2DB226F38B200C788C8 /* Hello_world.h */,
+				196EC2E3226F390D00C788C8 /* Service.swift */,
 				196EC2DC226F38B200C788C8 /* Info.plist */,
 			);
 			path = Hello_world;
