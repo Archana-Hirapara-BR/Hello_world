@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/Archana-Hirapara-BR/Hello_world.git"
   spec.license      = "MIT"
   spec.author       = { "Archana-Hirapara-BR" => "archana.hirapara@beelinesoftwares.com" }
-  spec.platform     = :ios, "9.0"  
+  spec.platform     = :ios, "11.0"  
   spec.source       = { :git => "https://github.com/Archana-Hirapara-BR/Hello_world.git", :tag => "1.0.0" }
   spec.source_files = 'Hello_world/**/*'
 

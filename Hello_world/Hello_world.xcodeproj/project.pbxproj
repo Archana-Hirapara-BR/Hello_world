@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		192543C42270340A00327877 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 196EC2DC226F38B200C788C8 /* Info.plist */; };
 		196EC2DD226F38B200C788C8 /* Hello_world.h in Headers */ = {isa = PBXBuildFile; fileRef = 196EC2DB226F38B200C788C8 /* Hello_world.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		196EC2E4226F390D00C788C8 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196EC2E3226F390D00C788C8 /* Service.swift */; };
 /* End PBXBuildFile section */
@@ -124,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				192543C42270340A00327877 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
