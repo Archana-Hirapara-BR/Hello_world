@@ -6,10 +6,10 @@ Pod::Spec.new do |spec|
   spec.description  = "This is some super framework Hello_world. Have fun!"
   spec.homepage     = "https://github.com/Archana-Hirapara-BR/Hello_world.git"
   spec.license      = "MIT"
-  spec.author             = { "Archana-Hirapara-BR" => "archana.hirapara@beelinesoftwares.com" }
-  spec.platform     = :ios, "5.0"  
+  spec.author       = { "Archana-Hirapara-BR" => "archana.hirapara@beelinesoftwares.com" }
+  spec.platform     = :ios, "9.0"  
   spec.source       = { :git => "https://github.com/Archana-Hirapara-BR/Hello_world.git", :tag => "1.0.0" }
-  spec.source_files = 'Hello_world'
+  spec.source_files = 'Hello_world/**/*'
 
 
 end
